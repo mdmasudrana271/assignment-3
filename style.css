@@ -21,3 +21,6 @@
 .icons{
     color: #FFFFFF;;
 }
+.overley{
+  filter: brightness(40%);
+}
